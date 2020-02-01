@@ -1,6 +1,7 @@
 第一个文件
 第一行内容wjz
 master ：this is my contents
+dev2： o ha yo go za i ma si
 master :xin zi yi lu o ma yi wa 
 dev2:"ha ha wo zai zhe sb"
 master：ban zhan de si wa,o ha yo gu duo cao ni mashi
