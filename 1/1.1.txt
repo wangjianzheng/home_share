@@ -2,6 +2,9 @@
 第一行内容wjz
 master ：this is my contents
 master :xin zi yi lu o ma yi wa 
-
+dev2:"ha ha wo zai zhe sb"
 master：ban zhan de si wa,o ha yo gu duo cao ni mashi
 dev:yan xi , ma mi mu me mo
+
+dev2:o ha yo go za i ma si
+
