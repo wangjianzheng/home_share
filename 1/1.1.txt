@@ -9,4 +9,5 @@ master：ban zhan de si wa,o ha yo gu duo cao ni mashi
 dev:yan xi , ma mi mu me mo
 
 dev2:o ha yo go za i ma si
+dev2:o cao ni de gan ni ma se de si
 
